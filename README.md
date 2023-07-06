@@ -1,6 +1,6 @@
 {
 "Title": "@ModifyClub",
-"Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
+"Description": "این اپلیکیشن توسط کانال ModifyClu مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
 "Link": "https://t.me/ModifyClub/",
 "ColorWave": "#14acdf",
 "ColorWaveTwo": "#53ddef",
