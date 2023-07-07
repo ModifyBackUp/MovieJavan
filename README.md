@@ -18,5 +18,5 @@
 "ShowTime": "10",
 "Button": "پیوستن",
 "ButtonCancell": "بعدا",
-"Show": "on"
+"Show": "off"
 }
